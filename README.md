@@ -1,2 +1,2 @@
 # StudyFlix
-recomendador de filmes sobre Ação
+recomendador de filmes sobre ANIMAÇÃO
