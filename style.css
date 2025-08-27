@@ -1,6 +1,6 @@
 body {
-    background-color:#18193d;
-    color:#242747;
+    background-color:#0006c2;
+    color:#19faef;
     font-family: sans-serif;
 }
 
@@ -31,7 +31,7 @@ h2 {
  
 .chamada {
     color:#344c9c;
-    background: #9494cc;
+    background: #5656ff;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex; /* torna flexivel = põe um do lado do outro */
